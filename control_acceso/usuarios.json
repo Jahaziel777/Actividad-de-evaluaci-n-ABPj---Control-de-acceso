@@ -1,0 +1,14 @@
+[
+  {
+    "id_tarjeta": "123",
+    "nombre_empleado": "Juan Perez",
+    "departamento": "Produccion",
+    "nivel_seguridad": 2
+  },
+  {
+    "id_tarjeta": "456",
+    "nombre_empleado": "Maria Lopez",
+    "departamento": "Admin",
+    "nivel_seguridad": 3
+  }
+]
